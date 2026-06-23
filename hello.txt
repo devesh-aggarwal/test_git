@@ -6,6 +6,4 @@ third
 
 origin change
 
-hello there!
-
-Whaetever happened to General Kenobi??
+branch change to feature 1
