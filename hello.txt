@@ -7,3 +7,11 @@ third
 origin change
 
 branch change to feature 1
+
+fourth
+
+fifth
+
+sixth
+
+seventh
